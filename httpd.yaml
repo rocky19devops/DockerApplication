@@ -6,7 +6,7 @@ metadata:
     app: rocky
   name: rocky
 spec:
-  replicas: 3
+  replicas: 6
   selector:
     matchLabels:
       app: rocky
